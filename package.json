@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@angular/cli": "^8.2.2"
+  }
+}

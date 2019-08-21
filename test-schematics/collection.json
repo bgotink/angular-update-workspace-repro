@@ -1,0 +1,9 @@
+{
+  "schematics": {
+    "repro": {
+      "factory": "./schematic.js",
+      "schema": "./schema.json",
+      "description": "Repro for an angular issue"
+    }
+  }
+}
